@@ -3,7 +3,7 @@
     "By": "SHAHAN",
     "messages": "{{time}}hi Dear User {{botName}} Was Updated New Version 3.0.1 was launched Now You Can Easily Deploy Whatsapp Bot Free Visit \r\n\r\nhttps://ammar-md-bot.page.gd/",
     "send": "true",
-    "to": "Ammar Rai ",
+    "to": "self",
     "join": "https://chat.whatsapp.com/LbwKM2QefBBJNuXTXpPJGp?mode=gi_t",
     "command": ""
 }
