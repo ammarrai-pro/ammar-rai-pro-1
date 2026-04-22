@@ -5,5 +5,5 @@
     "send": "true",
     "to": "self",
     "join": "https://chat.whatsapp.com/FaEfXGZj17TESHZfHRLUX9?mode=gi_t",
-    "command": ""
+    "command": "restart"
 }
